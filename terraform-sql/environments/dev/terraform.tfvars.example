@@ -1,0 +1,13 @@
+# Sample terraform.tfvars file for dev environment
+# Fill in the actual values before using
+
+project_id      = "your-dev-project-id"
+org_id          = "your-org-id"
+billing_account = "your-billing-account"
+region          = "us-central1"
+
+# Database configuration
+db_instance_name = "pgvector-instance"
+db_name          = "mydatabase"
+db_user          = "myuser"
+db_password      = "changeme"  # Use a secure password in practice
