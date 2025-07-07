@@ -602,7 +602,7 @@ make tf-destroy ENV=dev
 <div align="center">
 <p>Made with ❤️ for vector database enthusiasts</p>
 
-<a href="https://github.com/yourusername/pgvector_cloudsql_gcp/stargazers">
+<a href="https://github.com/sciences44/pgvector_cloudsql_gcp/stargazers">
   <img src="https://img.shields.io/github/stars/yourusername/pgvector_cloudsql_gcp?style=social" alt="GitHub stars">
 </a>
 </div>
